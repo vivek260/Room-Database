@@ -1,0 +1,24 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Bitcot Technology Assignment</string>
+    <string name="image_description">Image Description</string>
+    <string name="meddu">Meddu</string>
+    <string name="education">Education</string>
+    <string name="login">Login</string>
+    <string name="user_name">Username</string>
+    <string name="password">Password</string>
+    <string name="hint_user_name">Enter Username</string>
+    <string name="hint_password">Enter Password</string>
+    <string name="forget_password">Forget Password</string>
+    <string name="signup_option">Don\'t have an account? sign Up</string>
+    <string name="register">Register</string>
+    <string name="name">Name</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="email">Email</string>
+    <string name="signup">Signup</string>
+    <string name="hint_name">Enter Your Name</string>
+    <string name="hint_mobile_number">Enter Your Mobile Number</string>
+    <string name="hint_email">Enter Your Email</string>
+    <string name="login_option">Already have an account? Sign In</string>
+
+    <string name="tag" tools:ignore="ExtraTranslation">Meddu Education</string>
+</resources>
